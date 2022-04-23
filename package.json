@@ -1,0 +1,20 @@
+{
+  "name": "kelvin-weather-app",
+  "version": "1.0.0",
+  "description": "JavaScript practice",
+  "main": "app.js",
+  "scripts": {
+    "run": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blackcat-Tinkerngineers/kelvin-weather-app.git"
+  },
+  "keywords": [],
+  "author": "Chelsie L. Bangloy-Gonsalves",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Blackcat-Tinkerngineers/kelvin-weather-app/issues"
+  },
+  "homepage": "https://github.com/Blackcat-Tinkerngineers/kelvin-weather-app#readme"
+}
